@@ -1,0 +1,1 @@
+run the setup file then execute the builder to build your stub/logger
